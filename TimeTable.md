@@ -14,7 +14,7 @@
 </table><br>
   
 ## 利用可能エリア  
-![](zu.png)  
+![](/YORICA/zu.png)  
   
 ## 時刻表  
   
