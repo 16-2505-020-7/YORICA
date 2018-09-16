@@ -1,6 +1,20 @@
 # YORICA  
   
-![](map.jpg)  
+  <table>
+<tr>
+  <td><a href = "index.html">トップ</a><br></td>
+  <td><a href = ".html">YORICA利用方法</a><br></td>
+  <td><a href = "https://16-2505-020-7.github.io/YORICA/TimeTable.html">YORICA利用可能エリア</a><br></td>
+  <td><a href = "https://kodai1221.github.io/employment/index.html">運転手雇用について</a><br></td>
+  <td><a href = "https://16-2505-0468.github.io/w046ff/dandai.html">実績紹介</a><br></td><br>
+</tr>
+<tr>
+  <td><a href = "hoby.html">問合わせ</a><br></td>
+</tr>
+</table><br>
+  
+## 利用可能エリア  
+![](zu.png)  
   
 ## 時刻表  
   
@@ -24,6 +38,7 @@
   
   
   
+  
 ## プレミアム優遇制度のご案内と特典  
   
 ### プレミアム優遇制度とは、商店街や連携店での買い物でもらった「YORICA」の数によって受けられる特別待遇制度のことです。  
@@ -37,6 +52,20 @@
 #### ２．お買い物で得られる「YORICA」が＋２枚になる！  
 #####   お買い物で得られる分に加えて、通常より２枚多く「YORICA」が獲得できます。  
   
+  
+  
+  
+## 利用できる車の種類  
+  
+### 通常のお客様  
+#### 最大乗車可能人数　　　人  
+#### 
+![](car.png)  
+  
+### プレミアム会員のお客様  
+#### 最大乗車可能人数　　　人
+####   
+![](high.png)  
   
   
   
